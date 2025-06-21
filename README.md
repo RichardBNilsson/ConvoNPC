@@ -13,6 +13,9 @@ A new and improved way to store information about npcs that players will forget 
 ### Flags and npm packages
 - --routing
 - --style css
+- Bootstrap@5.3.7
+- json-server@0.17.0
+- jsonwebtoken@9.0.2
 
 ### Settings
 - Zone.js Enabled
