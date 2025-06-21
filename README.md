@@ -10,3 +10,10 @@ A new and improved way to store information about npcs that players will forget 
 
 ### ToDo - Small
 
+### Flags and npm packages
+- --routing
+- --style css
+
+### Settings
+- Zone.js Enabled
+- SSR and SSG Enabled
