@@ -8,4 +8,5 @@ A new and improved way to store information about npcs that players will forget 
 - Start with hardcoding npcs to fix the chat interaction
 - Upgrade with DB on later term if needed
 
-### ToDo - Minor
+### ToDo - Small
+
