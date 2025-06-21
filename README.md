@@ -16,6 +16,7 @@ A new and improved way to store information about npcs that players will forget 
 - Bootstrap@5.3.7
 - json-server@0.17.0
 - jsonwebtoken@9.0.2
+- @fortawesome/fontawesome-free@6.0.0
 
 ### Settings
 - Zone.js Enabled
